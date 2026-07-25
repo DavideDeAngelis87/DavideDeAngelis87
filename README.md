@@ -6,7 +6,7 @@ sono un **project leader** con una solida esperienza nella gestione dei processi
 * **linguaggi:** python, r
 * **data science:** machine learning, deep learning (tensorflow/keras), nlp, computer vision (opencv)
 * **statistica:** analisi inferenziale, modellazione predittiva, hypothesis testing
-* **tools:** pandas, numpy, scikit-learn, tidyverse, ggplot2, git
+* **tools:** pandas, numpy, scikit-learn, tidyverse, tensorflow, tableau
 
 ## 📂 Portfolio progetti
 
