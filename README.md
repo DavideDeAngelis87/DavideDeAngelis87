@@ -11,8 +11,8 @@ sono un **project leader** con una solida esperienza nella gestione dei processi
 ## 📂 Portfolio progetti
 
 ### 🤖 NLP & Computer Vision
-* **[Toxic Content Classification using Deep Learning (NLP)](https://github.com/DavideDeAngelis87/Deep-Learning-Toxic-Content-Classification):** sistema di moderazione automatica con reti neurali lstm/gru per l'identificazione di contenuti non appropriati.
-* **[NLP & Topic Modeling: Email Classification and Text Analysis](https://github.com/DavideDeAngelis87/NLP-Spam-Identifier):** pipeline di elaborazione del linguaggio naturale con topic modeling (lda) e named entity recognition (ner).
+* **[Anti-hater social network filter using Deep Learning](https://github.com/DavideDeAngelis87/Deep-Learning-Toxic-Content-Classification):** sistema di moderazione automatica con reti neurali lstm/gru per l'identificazione di contenuti non appropriati.
+* **[Classification and Text Analysis model for company emails](https://github.com/DavideDeAngelis87/NLP-Spam-Identifier):** pipeline di elaborazione del linguaggio naturale con topic modeling (lda) e named entity recognition (ner).
 * **[Computer Vision: Automated Face Detection System](https://github.com/DavideDeAngelis87/Computer-Vision-Face-Detection):** implementazione di algoritmi hog e image pyramid per il rilevamento biometrico in tempo reale.
 
 ### 📈 Machine Learning
