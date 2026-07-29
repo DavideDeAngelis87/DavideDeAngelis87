@@ -1,6 +1,6 @@
 # Ciao, sono Davide 👋
 
-sono un **project leader** con una solida esperienza nella gestione dei processi e una specializzazione in **data science**. questo profilo raccoglie i miei progetti principali, sviluppati per trasformare dati complessi in soluzioni strategiche e insight operativi.
+Sono un **project leader** con una solida esperienza nella gestione dei progetti digitali e una specializzazione in **data science and analytics**. questo profilo raccoglie i miei progetti principali, sviluppati per trasformare dati complessi in soluzioni strategiche e insight operativi.
 
 ## 🛠 Tech stack & competenze
 * **linguaggi:** python, r
