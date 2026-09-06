@@ -22,6 +22,11 @@ Sono un **project leader** con una solida esperienza nella gestione dei progetti
 ### SQL
 * **[Bank Customer Feature Engineering](https://github.com/DavideDeAngelis87/SQL-Feature-Extraction):** Pipeline SQL sviluppata per la trasformazione di dati transazionali bancari relazionali in una tabella denormalizzata (Feature Store) riferita al singolo cliente (id_cliente).
 
+### Data Visualization
+* **[Marketplace Sales & Profitability Analysis](https://github.com/DavideDeAngelis87/Marketplace-Sales-and-Profitability-analysis):** Sviluppo di una soluzione interattiva di Business Intelligence in Tableau per:
+  * il monitoraggio end-to-end delle performance economico-logistiche della catena Superstore nel mercato europeo
+  * stabilire la corretta allocazione del budget marketing
+
 
 ### Statistica & Python core
 * **[Statistical Modeling & Inference: Neonatal Weight Prediction (R)](https://github.com/DavideDeAngelis87/Birth-Weight-Statistical-Inference):** modello inferenziale per la validazione scientifica dei fattori che influenzano la salute neonatale.
